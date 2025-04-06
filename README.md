@@ -33,5 +33,5 @@
 ---
 
 ### 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/leandra-silva-b72ab235a/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/leandra-silva-b72ab235a/))
 [![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:leandradasilva34@gmail.com)
