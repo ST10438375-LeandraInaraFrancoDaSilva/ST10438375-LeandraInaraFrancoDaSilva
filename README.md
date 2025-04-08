@@ -9,7 +9,6 @@
 - 🌱 I’m learning **Java**
 - 💬 Ask me about **React, Kotlin, HTML and Typescript**
 - 📫 Reach me at **leandradasilva34@gmail.com**
-- ⚡ Fun fact: *When I’m not coding, I’m probably redesigning an app in my head*
 
 ---
 
